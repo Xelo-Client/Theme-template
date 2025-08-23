@@ -1,7 +1,7 @@
 # Theme-template
 Free to use themes template to make your own themes for Xelo
 
-# 📦 XTheme File Structure (Community Themes for Android)
+# 📦 XTheme File Structure
 
 This document explains how to structure and define `.xtheme` files for community-made themes in your Android app.  
 Each `.xtheme` is just a **ZIP archive** with specific files inside.
