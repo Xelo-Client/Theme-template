@@ -62,12 +62,44 @@ Keep naming consistent so your app can map them correctly.
 
 ```json
 {
-  "primary": "#00FFCC",
-  "primaryDark": "#008877",
-  "accent": "#FF0077",
-  "background": "#121212",
-  "textPrimary": "#FFFFFF",
-  "textSecondary": "#BBBBBB"
+  "name": "Default",
+  "author": "Xelo Team",
+  "description": "Material Design 3 Dark Theme",
+  "colors": {
+    "background": "#0A0A0A",
+    "onBackground": "#FFFFFF",
+    "surface": "#141414",
+    "onSurface": "#FFFFFF",
+    "surfaceVariant": "#1F1F1F",
+    "onSurfaceVariant": "#CCCCCC",
+    "outline": "#505050",
+    "primary": "#FFFFFF",
+    "onPrimary": "#000000",
+    "primaryContainer": "#1F1F1F",
+    "onPrimaryContainer": "#FFFFFF",
+    "secondary": "#FFFFFF",
+    "onSecondary": "#000000",
+    "secondaryContainer": "#2A2A2A",
+    "onSecondaryContainer": "#FFFFFF",
+    "tertiary": "#F5F5F5",
+    "onTertiary": "#000000",
+    "tertiaryContainer": "#3A3A3A",
+    "onTertiaryContainer": "#FFFFFF",
+    "error": "#FF6659",
+    "onError": "#FFFFFF",
+    "errorContainer": "#B00020",
+    "onErrorContainer": "#FFFFFF",
+    "success": "#00E676",
+    "info": "#64B5F6",
+    "warning": "#FFC107",
+    "toggle": {
+      "track": "#2A2A2A",
+      "trackChecked": "#4CAF50",
+      "thumb": "#FFFFFF",
+      "thumbChecked": "#FFFFFF",
+      "ripple": "#4CAF50"
+    }
+  }
 }
 ```
 
