@@ -62,9 +62,6 @@ Keep naming consistent so your app can map them correctly.
 
 ```json
 {
-  "name": "Default",
-  "author": "Xelo Team",
-  "description": "Material Design 3 Dark Theme",
   "colors": {
     "background": "#0A0A0A",
     "onBackground": "#FFFFFF",
